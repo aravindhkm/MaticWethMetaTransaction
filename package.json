@@ -1,0 +1,22 @@
+{
+  "name": "maticwethmetatransaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aravindh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@ethersproject/abi": "^5.7.0",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.0.3",
+    "eth-sig-util": "^3.0.1",
+    "ethers": "^5.7.2",
+    "web3": "^1.8.1"
+  }
+}
